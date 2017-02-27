@@ -1,7 +1,11 @@
 <?xml version="1.0"?>
 <substratum>
-    <wallpaper id="01">
+    <wallpaper id="Wood">
         <link>https://raw.githubusercontent.com/Sh4dowSoul/OutlineWalls/master/WoodWall.jpeg</link>
         <preview>https://raw.githubusercontent.com/Sh4dowSoul/OutlineWalls/master/WoodWall.jpeg</preview>
+    </wallpaper>
+    <wallpaper id="Fir">
+        <link>https://raw.githubusercontent.com/Sh4dowSoul/OutlineWalls/master/FirWall.jpeg</link>
+        <preview>https://raw.githubusercontent.com/Sh4dowSoul/OutlineWalls/master/FirWall.jpeg</preview>
     </wallpaper>
 </substratum>
